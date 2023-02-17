@@ -38,4 +38,7 @@ r = requests.post(url=url, headers=headers, data=data)
 print(r.text)
 ```
 
+![pic2](pic2.png)
+
 Finally, you can write exp, which can achieve a very stable effect of obtaining the root shell
+
